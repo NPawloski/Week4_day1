@@ -1,0 +1,31 @@
+﻿body {
+}
+
+p {
+    color: blue;
+    font-family: Ariel;
+    font-size: 12px;
+}
+
+
+/*This is a comment*/
+
+.FunkyFresh {
+    color: burlywood;
+    font-family: 'Franklin Gothic';
+    font-size: 22px;
+}
+
+
+#theThird {
+    color: blueviolet;
+}
+
+h1, h3, h6 {
+    font-family: 'PT Sans';
+}
+
+oi, ul {
+    font-size: 15px;
+    text-decoration: wavy;
+}
